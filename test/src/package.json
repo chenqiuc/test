@@ -1,0 +1,12 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "dependencies": {
+
+  },
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/neu-mis-info6150-fall-2018/assignment-5-javascript-2-rc"
+ }
+}
+
